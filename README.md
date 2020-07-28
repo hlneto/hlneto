@@ -2,7 +2,7 @@
 
 💻 Web Developer at [ComeiaLabs](https://www.comeialabs.com.br/)<br>
 🇧🇷 Born in Caruaru, Brazil <br>
-🔭 I'm currently learning Flask <br>
+🌱 I'm currently learning Flask <br>
 
 ### What I'm working on
 

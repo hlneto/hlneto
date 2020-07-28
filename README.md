@@ -1,5 +1,18 @@
-### Hi there 👋
+### Hi, I'm Hermes Neto! 👋
 
+💻 Web Developer at [ComeiaLabs](https://www.comeialabs.com.br/)<br>
+🇧🇷 Born in Caruaru, Brazil <br>
+🔭 I'm currently learning Flask <br>
+
+### What I'm working on
+
+📱 Building a website with Flask and Angular
+
+### Find me at
+
+🐦 [Twitter](https://twitter.com/hlnet0) <br>
+📸 [Instagram](https://www.instagram.com/hnet0/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/hermes-laurentino-879b54174/) <br>
 <!--
 **hlneto/hlneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

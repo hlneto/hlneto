@@ -2,11 +2,11 @@
 
 💻 Web Developer at [ComeiaLabs](https://www.comeialabs.com.br/)<br>
 🇧🇷 Living in Caruaru, Brazil <br>
-🌱 I'm currently learning Flask <br>
+🌱 I'm currently learning Node.js <br>
 
 ### What I'm working on
 
-📱 Building a website with Flask and Angular
+📱 Building a REST API with Node.js
 
 ### Find me at
 

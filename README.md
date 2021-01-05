@@ -6,7 +6,7 @@
 
 ### What I'm working on
 
-📱 Building a REST API with Node.js
+📱 Building a REST API with Nest.js
 
 ### Find me at
 
@@ -18,7 +18,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on web developer Java ...
+- 🔭 I’m currently working on backend developer Java and Node.js...
 - 🌱 I’m currently learning Python...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

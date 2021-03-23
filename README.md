@@ -1,6 +1,6 @@
 ### Hi, I'm Hermes Neto! 👋
 
-💻 Web Developer at [ComeiaLabs](https://www.comeialabs.com.br/)
+💻 Web Developer at [ComeiaLabs](https://www.comeialabs.com.br/) <br>
 🇧🇷 Living in Caruaru, Brazil <br>
 🌱 I'm currently learning Node.js <br>
 

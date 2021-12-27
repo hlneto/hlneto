@@ -6,7 +6,7 @@
 
 ### What I'm working on
 
-📱 Building a REST API with Nest.js
+📱 Building a Quiz with Spring Boot, Swagger, Hibernate, PostgreSQL, JWT, Log4j, AWS.
 
 ### Find me at
 

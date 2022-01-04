@@ -1,6 +1,6 @@
 ### Hi, I'm Hermes Neto! 👋
 
-💻 Web Developer at [Capgemini Brasil](https://www.capgemini.com/br-pt/) <br>
+💻 Web Developer [at Capgemini Brasil]() <br>
 🇧🇷 Living in Caruaru, Brazil <br>
 🌱 I'm currently learning Node.js <br>
 

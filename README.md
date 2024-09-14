@@ -6,13 +6,15 @@
 
 ### What I'm working on
 
-📱 Building a Quiz with Spring Boot, Swagger, Hibernate, PostgreSQL, JWT, Log4j, AWS.
+📱 Building a project with Spring Boot, Swagger, Hibernate, PostgreSQL, JWT, Log4j, AWS.
 
 ### Find me at
 
-🐦 [Twitter](https://twitter.com/hlnet0) <br>
+🐦 [Twitter](https://twitter.com/hlnet0) <br> (deactivated in brazil)
 📸 [Instagram](https://www.instagram.com/hnet0/) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/hermes-laurentino-879b54174/) <br>
+💬 [Blog] (https://hermes-dev.com.br/) <br>
+
 <!--
 **hlneto/hlneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
